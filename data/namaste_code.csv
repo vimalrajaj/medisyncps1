@@ -1,0 +1,21 @@
+namaste_code,namaste_display,namaste_description,category,ayush_system
+AY001,Vata Dosha Imbalance,Nervous system constitutional disorder affecting movement and coordination,constitutional,Ayurveda
+AY002,Pitta Dosha Excess,Metabolic fire constitutional disorder with inflammatory manifestations,constitutional,Ayurveda
+AY003,Kapha Dosha Stagnation,Structural constitutional disorder with fluid retention and sluggishness,constitutional,Ayurveda
+AY004,Vata-Pitta Prakruti,Dual constitutional type with air-fire predominance,constitutional,Ayurveda
+AY005,Pitta-Kapha Prakruti,Dual constitutional type with fire-water predominance,constitutional,Ayurveda
+AY006,Agni Mandya,Weak digestive fire leading to poor metabolism,digestive,Ayurveda
+AY007,Agni Vriddhi,Excessive digestive fire causing rapid metabolism,digestive,Ayurveda
+AY008,Jatharagni Dushti,Central digestive fire imbalance,digestive,Ayurveda
+AY009,Dhatvagni Mandya,Tissue-level metabolic fire weakness,digestive,Ayurveda
+AY010,Ama Dosha,Metabolic toxin accumulation from incomplete digestion,metabolic,Ayurveda
+AY011,Ama Visha,Toxic metabolic waste with inflammatory properties,metabolic,Ayurveda
+AY012,Gara Visha,Artificial toxin accumulation,metabolic,Ayurveda
+AY013,Sthavara Visha,Plant-origin toxic accumulation,metabolic,Ayurveda
+AY014,Ojas Kshaya,Vital essence depletion affecting immunity,immunity,Ayurveda
+AY015,Tejas Dushti,Metabolic fire essence imbalance,immunity,Ayurveda
+AY016,Prana Kshaya,Life force energy depletion,immunity,Ayurveda
+AY017,Rasa Dhatu Kshaya,Plasma tissue deficiency,tissue,Ayurveda
+AY018,Mamsa Dhatu Dushti,Muscle tissue disorder,tissue,Ayurveda
+AY019,Meda Dhatu Vriddhi,Adipose tissue excess,tissue,Ayurveda
+AY020,Asthi Dhatu Kshaya,Bone tissue deficiency,tissue,Ayurveda
